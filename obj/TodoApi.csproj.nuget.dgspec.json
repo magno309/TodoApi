@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Itsur\\8vo semestre\\ProgramacionWeb2\\Proyectos\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\luis_\\Documents\\Github\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "D:\\Itsur\\8vo semestre\\ProgramacionWeb2\\Proyectos\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\luis_\\Documents\\Github\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Itsur\\8vo semestre\\ProgramacionWeb2\\Proyectos\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\luis_\\Documents\\Github\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "D:\\Itsur\\8vo semestre\\ProgramacionWeb2\\Proyectos\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\luis_\\Documents\\Github\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\luis_\\.nuget\\packages\\",
-        "outputPath": "D:\\Itsur\\8vo semestre\\ProgramacionWeb2\\Proyectos\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\luis_\\Documents\\Github\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luis_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

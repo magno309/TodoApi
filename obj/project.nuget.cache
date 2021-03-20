@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GFBQJKKC3iMFX4nRXHFwu573U6Vdy9o4Qb5gS0jo3tzMr3l5RJ56SrG+i8LHxnaYRq02DCiBKeRpjI3FLgdO5g==",
+  "dgSpecHash": "g4XJEP0maT7efqfIUyZkg3GQxZ1aSC32jzrskwLCQnzXM0WMnLsZYJVFzkgqErWNAxweZpgKlDXgRSUeRrvU8A==",
   "success": true,
-  "projectFilePath": "D:\\Itsur\\8vo semestre\\ProgramacionWeb2\\Proyectos\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\luis_\\Documents\\Github\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luis_\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\luis_\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
