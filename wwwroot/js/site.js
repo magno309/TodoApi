@@ -2,10 +2,17 @@ const uri = 'api/TodoItems';
 let todos = [];
 
 function getItems() {
-  fetch(uri)
-    .then(response => response.json())
-    .then(data => _displayItems(data))
-    .catch(error => console.error('Unable to get items.', error));
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function () {
+    if (this.readyState == 4 && this.status == 200) {
+      fetch(uri)
+        .then(response => response.json())
+        .then(data => _displayItems(data))
+        .catch(error => console.error('Unable to get items.', error));
+    }
+  };
+  xhttp.open("GET", uri, true);
+  xhttp.send();
 }
 
 function addItem() {
